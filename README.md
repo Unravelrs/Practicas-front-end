@@ -33,10 +33,11 @@ Para esta práctica se realizó la maquetación de una página web con las sigui
 - La página debe tener información de la pastelería que es Dirección, Teléfono y horarios de atención.
 
 Para el desarrolló de esta web lo primero que hizo fue diseñar un logo:
+
  ![Logo pasteleria](/Pasteleria/UnravelRs%20Pasteleria.png)
 
 
-se crearon tres archivos html:
+Después se crearon tres archivos html:
 
 [Index](/Pasteleria/index.html)
 
@@ -45,7 +46,8 @@ se crearon tres archivos html:
 [Pagina de pastelero](/Pasteleria/Pasteleria%20admin.html)
 
 
-Además se subió a un host gratuito:
+
+Y se subió a un host gratuito:
 
 [Pastelería UnravelRs](https://unravelrspasteleria.000webhostapp.com/index.html)
 
