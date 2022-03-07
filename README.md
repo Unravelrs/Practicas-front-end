@@ -45,10 +45,19 @@ Para esta práctica se realizó la maquetación de una página web con las sigui
 
 Para el desarrolló de esta web lo primero que hizo fue diseñar un logo:
 
+### Logo
+
  ![Logo pasteleria](/Pasteleria/UnravelRs%20Pasteleria.png)
 
 
+
+
+
+
+### Archivos HTML de web pastelera
+
 Después se crearon tres archivos html:
+
 
 [Index](/Pasteleria/index.html)
 
@@ -57,6 +66,8 @@ Después se crearon tres archivos html:
 [Pagina de pastelero](/Pasteleria/Pasteleria%20admin.html)
 
 
+
+### Link a la web pastelera 
 
 Y se subió a un host gratuito:
 
