@@ -10,4 +10,4 @@ Para este proyecto se desarrolló un formulario web para una firma de abogados q
 Posteriormente se realizó la caracterización del buyer persona y el público objetivo:
 
 ![Buyer persona](/Abogabot/Buyer%20persona.png)
-![Buyer persona](/abogabot/Publico%20objetivo.jpg)
+![publíco objetivo](/abogabot/Publico%20objetivo.jpg)
