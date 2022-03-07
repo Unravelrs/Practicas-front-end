@@ -32,7 +32,11 @@ Para esta práctica se realizó la maquetación de una página web con las sigui
 - El pastelero necesita una tabla donde aparezcan los pedidos que se han realizado con los datos del formulario.
 - La página debe tener información de la pastelería que es Dirección, Teléfono y horarios de atención.
 
-Para el desarrolló de esta web se crearon tres archivos html:
+Para el desarrolló de esta web lo primero que hizo fue diseñar un logo:
+ ![Logo pasteleria](/Pasteleria/UnravelRs%20Pasteleria.png)
+
+
+se crearon tres archivos html:
 
 [Index](/Pasteleria/index.html)
 
