@@ -1,5 +1,5 @@
 # Practicas front-end 
-Practicas de la primera semana de frontend Lunchex (abogabot y pastelería)
+Aquí se subirán las prácticas del módulo de front-end del curso LaunchX
 
 ## Semana 1 Abogabot 
 
