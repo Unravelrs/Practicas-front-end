@@ -28,7 +28,7 @@ y por último se desarrolló un wireframe y el UI del formulario web, el cual de
 
 
 
-## Semana 2 Web pastelería
+## Semana 2 Web pastelera
 
 Para esta práctica se realizó la maquetación de una página web con las siguientes carácterísticas.
 
