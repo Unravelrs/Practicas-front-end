@@ -9,13 +9,24 @@ Para este proyecto se desarrolló un formulario web para una firma de abogados q
 
 Posteriormente se realizó la caracterización del buyer persona y el público objetivo:
 
+### Buyer persona
+
 ![Buyer persona](/Abogabot/Buyer%20persona.png)
-![publíco objetivo](/Abogabot/Publico%20objetivo.jpg)
+
+### Público objetivo
+![público objetivo](/Abogabot/Publico%20objetivo.jpg)
 
 y por último se desarrolló un wireframe y el UI del formulario web, el cual debía ser reponsive en colores azul marino y blanco.
 
+### Wireframe
+
 ![wireframe](/Abogabot/Wireframe.jpg)
-![wireframe](/Abogabot/UI.jpg)
+
+### UI
+
+![UI](/Abogabot/UI.jpg)
+
+
 
 ## Semana 2 Web pastelería
 
