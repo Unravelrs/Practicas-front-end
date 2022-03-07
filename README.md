@@ -35,6 +35,8 @@ Para esta práctica se realizó la maquetación de una página web con las sigui
 Para el desarrolló de esta web se crearon tres archivos html:
 
 [Index](/Pasteler%C3%ADa/Index.html)
-[Página de pedidos](/Pasteler%C3%ADa/pedidos pastelería.html)
-[Página de pastelero](/Pasteler%C3%ADa/pastelería admin.html)
+
+[Pagina de pedidos](/Pasteler%C3%ADa/pedidos pastelería.html)
+
+[Pagina de pastelero](/Pasteler%C3%ADa/pastelería admin.html)
 
