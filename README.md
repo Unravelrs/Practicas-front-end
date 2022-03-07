@@ -1,2 +1,2 @@
-# Practicas front-end (abogabot)
-Practicas de la primera semana de frontend Lunchex
+# Practicas front-end 
+Practicas de la primera semana de frontend Lunchex (abogabot y pastelería)
