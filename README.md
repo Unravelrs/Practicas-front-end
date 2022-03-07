@@ -34,14 +34,15 @@ Para esta práctica se realizó la maquetación de una página web con las sigui
 
 Para el desarrolló de esta web se crearon tres archivos html:
 
-[Index](/Pasteler%C3%ADa/Index.html)
+[Index](/Pasteleria/index.html)
 
-[Pagina de pedidos](/Pasteler%C3%ADa/Pasteleriaadmin.html)
+[Pagina de pedidos](/Pasteleria/pedidos%20pasteleria.html)
 
-[Pagina de pastelero](/Pasteler%C3%ADa/Pasteleríaadmin.html)
+[Pagina de pastelero](/Pasteleria/Pasteleria%20admin.html)
 
 
 Además se subió a un host gratuito:
 
 [Pastelería UnravelRs](https://unravelrspasteleria.000webhostapp.com/index.html)
+
 [Pagina de pastelero](https://unravelrspasteleria.000webhostapp.com/Pasteleria%20admin.html)
