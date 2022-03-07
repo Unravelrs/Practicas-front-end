@@ -36,7 +36,12 @@ Para el desarrolló de esta web se crearon tres archivos html:
 
 [Index](/Pasteler%C3%ADa/Index.html)
 
-[Pagina de pedidos](/Pasteler%C3%ADa/pedidos pastelería.html)
+[Pagina_de_pedidos](/Pasteler%C3%ADa/pedidos pastelería.html)
 
-[Pagina de pastelero](/Pasteler%C3%ADa/pastelería admin.html)
+[Pagina_de_pastelero](/Pasteler%C3%ADa/Pastelería admin.html)
 
+
+Además se subió a un host gratuito:
+
+[Pastelería UnravelRs](https://unravelrspasteleria.000webhostapp.com/pedidos%20pasteler%C3%ADa.html)
+[Pagina de pastelero](https://unravelrspasteleria.000webhostapp.com/pedidos%20pasteler%C3%ADa.html)
