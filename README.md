@@ -95,5 +95,5 @@ los archivos index.html y css se pueden encontrar en el siguiente repositorio:
 También se elaboró un tríptico como parte de una campaña de vacunación o mercadoctecnia que llevara la gente al sitio:
 
 [Triptico](https://github.com/Unravelrs/Practicas-front-end/blob/main/Vaccination/Campa%C3%B1a%20de%20vacunacion.pdf)
-![Triptico](https://github.com/Unravelrs/Practicas-front-end/blob/main/Vaccination/Campa%C3%B1a%20de%20vacunacion.pdf)
+
 
