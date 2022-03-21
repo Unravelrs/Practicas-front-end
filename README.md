@@ -82,9 +82,9 @@ Y se subió a un host gratuito:
 
 
 
-## Semana Estilo con CSS
+## Semana 3 Estilo con CSS
 
-Para esta práctica se realizó la maquetación de una página de vacunación previamente proporcionada [diseño](https://github.com/LaunchX-InnovaccionVirtual/FrontEnd-Mision/blob/main/03%20-%20CSS/practica/landingVacunaci%C3%B3n.png) con html y CSS, el resultado no fue responsive.
+Para esta práctica se realizó la maquetación de una página de vacunación previamente proporcionada [(diseño original)](https://github.com/LaunchX-InnovaccionVirtual/FrontEnd-Mision/blob/main/03%20-%20CSS/practica/landingVacunaci%C3%B3n.png) 
 
 [Resultado pagina vaccunación](https://unravelrs.github.io/Vaccination-page/)
 
@@ -95,4 +95,5 @@ los archivos index.html y css se pueden encontrar en el siguiente repositorio:
 También se elaboró un tríptico como parte de una campaña de vacunación o mercadoctecnia que llevara la gente al sitio:
 
 [Triptico](https://github.com/Unravelrs/Practicas-front-end/blob/main/Vaccination/Campa%C3%B1a%20de%20vacunacion.pdf)
+![Triptico](https://github.com/Unravelrs/Practicas-front-end/blob/main/Vaccination/Campa%C3%B1a%20de%20vacunacion.pdf)
 
