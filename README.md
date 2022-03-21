@@ -76,6 +76,12 @@ Y se subió a un host gratuito:
 [Pagina de pastelero](https://unravelrspasteleria.000webhostapp.com/Pasteleria%20admin.html)
 
 
+
+
+
+
+
+
 ## Semana Estilo con CSS
 
 Para esta práctica se realizó la maquetación de una página de vacunación previamente proporcionada [diseño](https://github.com/LaunchX-InnovaccionVirtual/FrontEnd-Mision/blob/main/03%20-%20CSS/practica/landingVacunaci%C3%B3n.png) con html y CSS, el resultado no fue responsive.
