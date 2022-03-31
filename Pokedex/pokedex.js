@@ -68,7 +68,7 @@ const renderPokemonStats = stats => {
 const renderPokemonMoves = data => {
            
     let moves = data.moves;
-    pokeMoves.innerHTML = "";
+    pokeMoves.innerHTML = "movimientos";
         
      for (let i = 0; i < moves.length; i++) {
                 const move = document.createElement("div");

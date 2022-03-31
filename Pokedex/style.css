@@ -90,21 +90,7 @@ justify-self: center;
         
     }
 
-    .containerder {
-
-        display: grid;
-        grid-template-columns: 1fr;
-        grid-template-rows: 1fr 1fr;
-        background-color: rgb(126, 0, 0);
-        color: white;
-        width: 400px;
-        height: 600px;
-        margin: 30px;
-        border-style: solid;
-        border-width: 15px;
-        border-color: rgb(104, 1, 1);
-
-        }
+   
 
 
 .pokedex {
@@ -150,4 +136,44 @@ justify-self: center;
 align-self: flex-end;
 margin-top: 10px;
 margin-bottom: 5px;
+}
+
+.containerder {
+
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 200px 1fr;
+    background-color: rgb(126, 0, 0);
+    color: white;
+    width: 400px;
+    height: 600px;
+    margin: 30px;
+    border-style: solid;
+    border-width: 15px;
+    border-color: rgb(104, 1, 1);
+    
+
+    }
+
+
+.poke-stats {
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    column-gap: 40px;
+    row-gap: 10px;
+}
+
+.moves__list {
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    column-gap: 10px;
+    padding: 0;
 }
