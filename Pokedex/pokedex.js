@@ -15,7 +15,7 @@ function fetchPokemon() {
     fetch(url).then((res) => {
         if (res.status != "200") {
             console.log(res);
-            pokeImage("./pokemon-sad.gif");
+            pokeImage("images/error.gif");
         }
         else {
             return res.json();
