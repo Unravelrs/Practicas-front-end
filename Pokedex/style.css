@@ -71,10 +71,10 @@ justify-self: center;
     align-self: center;
     border: solid;
     border-color: antiquewhite;
-    border-width: 10px 10px 55px 10px;
+    border-width: 5PX;
     border-radius: 7px;
     z-index: 0;
-    margin-top: 40px;
+    
 }
 
 .circulebackground {
