@@ -86,7 +86,7 @@ Y se subió a un host gratuito:
 
 Para esta práctica se realizó la maquetación de una página de vacunación previamente proporcionada [(diseño original)](https://github.com/LaunchX-InnovaccionVirtual/FrontEnd-Mision/blob/main/03%20-%20CSS/practica/landingVacunaci%C3%B3n.png) 
 
-[Resultado pagina vaccunación](https://unravelrs.github.io/Vaccination-page/)
+[Resultado pagina vaccunación](https://unravelrs.github.io/Practicas-front-end/Vaccination/)
 
 los archivos index.html y css se pueden encontrar en el siguiente repositorio:
 
@@ -97,3 +97,17 @@ También se elaboró un tríptico como parte de una campaña de vacunación o me
 [Triptico](https://github.com/Unravelrs/Practicas-front-end/blob/main/Vaccination/Campa%C3%B1a%20de%20vacunacion.pdf)
 
 
+
+## Semana 4 - Controlando el vuelo con JS
+
+Para esta actividad se realizó el prototipo de una pokedex utilizando html, css y javascript que fuera capaz de obtener los siguientes datos de la pokeAPI:
+
+- Imagen, nombre e ID del pokemon
+- Tipo(s) del pokemon
+- Movimientos del pokemon
+- Estadísticas del pokemon
+
+
+[Link al despliegue de la pokedex](https://unravelrs.github.io/Practicas-front-end/Pokedex/)
+
+A pesar de la funcionalidad, el diseño se seguirá actualizando hasta lograr un diseño más realista y adecuado, así como la añadición de más datos sobre la consulta pokemon.
